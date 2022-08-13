@@ -1,0 +1,1 @@
+export const capitalize = (name) => (name.toLowerCase().charAt(0).toUpperCase() + name.slice(1).toLowerCase())
